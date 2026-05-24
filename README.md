@@ -1,6 +1,6 @@
 # BindThings Arduino Library
 
-Official Arduino library for the [BindThings](https://bindthings.io) IoT Platform.
+Official Arduino library for the [BindThings](https://bindthings.com) IoT Platform.
 
 Connect your ESP32, ESP8266, or Arduino to BindThings with just a few lines of code.
 
